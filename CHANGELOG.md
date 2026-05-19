@@ -2,7 +2,7 @@
 
 ## 3.0.0
 
-- Promoted AI Policy Starter to v3 production certification.
+- Promoted AI Policy Starter to release certification.
 - Added release gates, integrity hashing, import/export round-trip support, operational docs, and rigorous v3 tests.
 
 ## 1.0.0
